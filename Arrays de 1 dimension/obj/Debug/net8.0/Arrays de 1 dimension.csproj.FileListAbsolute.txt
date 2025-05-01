@@ -1,0 +1,14 @@
+C:\GitHub\Entrega2\Arrays de 1 dimension\bin\Debug\net8.0\Arrays de 1 dimension.exe
+C:\GitHub\Entrega2\Arrays de 1 dimension\bin\Debug\net8.0\Arrays de 1 dimension.deps.json
+C:\GitHub\Entrega2\Arrays de 1 dimension\bin\Debug\net8.0\Arrays de 1 dimension.runtimeconfig.json
+C:\GitHub\Entrega2\Arrays de 1 dimension\bin\Debug\net8.0\Arrays de 1 dimension.dll
+C:\GitHub\Entrega2\Arrays de 1 dimension\bin\Debug\net8.0\Arrays de 1 dimension.pdb
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\Arrays de 1 dimension.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\Arrays de 1 dimension.AssemblyInfoInputs.cache
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\Arrays de 1 dimension.AssemblyInfo.cs
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\Arrays de 1 dimension.csproj.CoreCompileInputs.cache
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\Arrays de 1 dimension.dll
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\refint\Arrays de 1 dimension.dll
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\Arrays de 1 dimension.pdb
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\Arrays de 1 dimension.genruntimeconfig.cache
+C:\GitHub\Entrega2\Arrays de 1 dimension\obj\Debug\net8.0\ref\Arrays de 1 dimension.dll

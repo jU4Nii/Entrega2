@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Arrays de 1 dimension/1.0.0": {
+        "runtime": {
+          "Arrays de 1 dimension.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arrays de 1 dimension/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
