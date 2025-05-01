@@ -34,16 +34,11 @@ namespace Arrays_de_1_dimension
 
                 string nombreAnalizado = nombres[i];
 
-                for (int j = 0; j < 2; i++)
-                {
-
-                    if (nombreAnalizado[0] == 'A' || nombreAnalizado[0] == 'a') contadorNombresConA++;
-
-                }
+                if (nombreAnalizado[0] == 'A' || nombreAnalizado[0] == 'a') contadorNombresConA++;
 
             }
 
-            Console.WriteLine($"La cantidad de nombres que empiezan con la letra 'A' es igual a {contadorNombresConA}");
+            Console.WriteLine($"La cantidad de nombres con 'A' es {contadorNombresConA}");
 
 
         }
