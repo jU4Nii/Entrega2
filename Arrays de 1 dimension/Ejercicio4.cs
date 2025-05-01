@@ -12,17 +12,18 @@ namespace Arrays_de_1_dimension
         public static void Ejecutar()
         {
 
-            string[] dias = new string[7];
+            string[] dias = new string[7] { "Domingo", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado" };
 
-            for (int i = 0; i < dias.Length; i++)
+            Console.WriteLine("Días laborales:");
+
+            for (int i = 1; i < 6; i++)
             {
 
-               
-                }
-
-                
+                Console.WriteLine(dias[i]);
 
             }
+
+            
  
         }
 

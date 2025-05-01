@@ -13,7 +13,7 @@ namespace Arrays_de_1_dimension
 
         public static void Ejecutar()
         {
-
+            
             Console.WriteLine("Ingrese 8 nombres:");
 
             string[] nombres = new string[8];
