@@ -16,13 +16,34 @@ namespace Arrays_de_1_dimension
 
             int[] arregloInvertido = new int[5];
 
-            for (int i = arreglo.Length - 1; i >= 0; i--)
+            Console.WriteLine("Arreglo normal");
+
+            foreach(int num in arreglo)
             {
 
-
+                Console.WriteLine(num);
 
             }
 
+            int posicionArreglo1 = arreglo.Length - 1;
+
+            for (int i = 0; i < arreglo.Length; i++)
+            {
+
+                arregloInvertido[i] = arreglo[posicionArreglo1];
+
+                posicionArreglo1--;
+
+            }
+
+            Console.WriteLine("Arreglo invertido");
+
+            foreach(int nums in arregloInvertido)
+            {
+
+                Console.WriteLine(nums);
+
+            }
 
         }
 
