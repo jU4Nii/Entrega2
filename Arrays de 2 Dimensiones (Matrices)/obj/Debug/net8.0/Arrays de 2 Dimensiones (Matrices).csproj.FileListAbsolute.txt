@@ -1,0 +1,15 @@
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\bin\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).exe
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\bin\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).deps.json
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\bin\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).runtimeconfig.json
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\bin\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).dll
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\bin\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).pdb
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).AssemblyInfoInputs.cache
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).AssemblyInfo.cs
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).csproj.CoreCompileInputs.cache
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).sourcelink.json
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).dll
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\refint\Arrays de 2 Dimensiones (Matrices).dll
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).pdb
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\Arrays de 2 Dimensiones (Matrices).genruntimeconfig.cache
+C:\GitHub\Entrega2\Arrays de 2 Dimensiones (Matrices)\obj\Debug\net8.0\ref\Arrays de 2 Dimensiones (Matrices).dll

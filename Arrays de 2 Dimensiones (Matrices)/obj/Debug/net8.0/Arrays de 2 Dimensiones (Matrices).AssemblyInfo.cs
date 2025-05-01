@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Arrays de 2 Dimensiones (Matrices)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5bd4686d8c91713ff2e76ef82b233c0a8be3d50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb9dd2b7c766ee08516f9d0f026450df49acbe5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Arrays de 2 Dimensiones (Matrices)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Arrays de 2 Dimensiones (Matrices)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
