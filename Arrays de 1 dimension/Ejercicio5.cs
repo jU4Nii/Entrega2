@@ -12,18 +12,18 @@ namespace Arrays_de_1_dimension
         public static void Ejecutar()
         {
 
-            int[] arreglo = new int[5] { 1, 2, 3, 4, 5 };
+            int[] arreglo = new int[5];
 
-            int[] arregloInvertido = new int[5];
+            Console.WriteLine("Cargar arreglo para luego invertirlo");
 
-            Console.WriteLine("Arreglo normal");
-
-            foreach(int num in arreglo)
+            for (int i = 0; i < arreglo.Length ; i++)
             {
 
-                Console.WriteLine(num);
+                arreglo[i] = int.Parse(Console.ReadLine());
 
             }
+
+            int[] arregloInvertido = new int[5];
 
             int posicionArreglo1 = arreglo.Length - 1;
 

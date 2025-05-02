@@ -16,19 +16,14 @@ namespace Listas
 
             List<int> nums = new List<int>();
 
+            int sumaNums = 0;
+
             for (int i = 0; i < 5; i++)
             {
 
                 Console.WriteLine($"{i+1}° número:");
 
                 nums.Add(int.Parse(Console.ReadLine()));
-
-            }
-
-            int sumaNums = 0;
-
-            for (int i = 0; i < nums.Count; i++)
-            {
 
                 sumaNums += nums[i];
 

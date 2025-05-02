@@ -16,7 +16,7 @@ namespace Arrays_de_2_Dimensiones__Matrices_
 
             int[][] matriz = new int[3][];
 
-            int[] sumas = new int[3];
+            int[] sumaFilas = new int[3];
 
             int max = int.MinValue;
 
@@ -34,14 +34,14 @@ namespace Arrays_de_2_Dimensiones__Matrices_
 
                     matriz[i][j] = int.Parse(Console.ReadLine());
 
-                    sumas[i] += matriz[i][j];
+                    sumaFilas[i] += matriz[i][j];
 
                 }
 
-                if (sumas[i] > max)
+                if (sumaFilas[i] > max)
                 {
 
-                    max = sumas[i];
+                    max = sumaFilas[i];
 
                     filaMax = matriz[i];
 

@@ -27,18 +27,13 @@ namespace Arrays_de_1_dimension
 
                 arreglo[i] = int.Parse(Console.ReadLine());
 
-            }
-
-            for (int i = 0; i < arreglo.Length; i++)
-            {
-
                 if (arreglo[i] > 0) contadorPos++;
                 else if (arreglo[i] < 0) contadorNeg++;
                 else contadorCeros++;
 
             }
 
-            Console.WriteLine($"El arreglo contiene {contadorPos} números positivos, {contadorNeg} números negativos y {contadorCeros} ceros");
+            Console.WriteLine($"El arreglo contiene {contadorPos} número/s positivo/s, {contadorNeg} número/s negativo/s y {contadorCeros} cero/s");
 
         }
 

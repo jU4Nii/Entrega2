@@ -17,7 +17,7 @@ namespace Arrays_de_2_Dimensiones__Matrices_
 
             int[][] matriz = new int[3][];
 
-            int[] sumas = new int[3];
+            int[] sumaFilas = new int[3];
 
             for (int i = 0; i < matriz.Length; i++)
             {
@@ -31,7 +31,7 @@ namespace Arrays_de_2_Dimensiones__Matrices_
 
                     matriz[i][j] = int.Parse(Console.ReadLine());
 
-                    sumas[i] += matriz[i][j];
+                    sumaFilas[i] += matriz[i][j];
 
                 }
 
@@ -40,7 +40,7 @@ namespace Arrays_de_2_Dimensiones__Matrices_
            for(int i = 0; i < 3; i++)
             {
 
-                Console.WriteLine($"La suma de la fila N°{i+1} es {sumas[i]}");
+                Console.WriteLine($"La suma de la fila N°{i+1} es {sumaFilas[i]}");
 
             }
 

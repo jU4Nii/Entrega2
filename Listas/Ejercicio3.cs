@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Listas
 {
@@ -23,13 +24,7 @@ namespace Listas
 
                 listaRandoms.Add(numAleatorio.Next(1, 101));
 
-            }
-
-            foreach(int numero in listaRandoms)
-            {
-
-                Console.WriteLine(numero);
-
+                Console.WriteLine(listaRandoms[i]);
             }
 
             Console.WriteLine("Ingrese un valor límite para eliminar todo número menor a dicho valor en la lista:");
